@@ -1,3 +1,5 @@
+## This is a forked repository from WEB2 classes, you can find my completed exercises here
+
 This repository contains resources for the [Web Development 2](https://en.via.dk/tmh-courses/web-development-2?education=ict) course at VIA University College, Horsens, Denmark.
 
 | Topic                          |                                                                                                                |                                                                                                        |
